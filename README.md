@@ -16,7 +16,7 @@
 ### 使用方法
 
 ```
-python GitHack.py http://www.example.com/.git/
+python2 GitHack.py http://www.example.com/.git/
 ```
 
 > 还原后的文件在 `dist/` 目录下
